@@ -3,7 +3,7 @@ import { h } from 'hyperapp';
 const clickCount = clicks => {
     return clicks > 0 ? (
         <div>
-            WWW clicked {clicks} time{clicks > 1 ? 's' : ''}
+            AAWWW clicked {clicks} time{clicks > 1 ? 's' : ''}
         </div>
     ) : (
         ''
